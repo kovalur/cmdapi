@@ -1,2 +1,2 @@
 # cmdapi
-A convenient way to get list of Command Line prompts on fly.
+A convenient way to get list of Command prompts on fly.
